@@ -1,0 +1,30 @@
+﻿@using HenryConnect.Models
+@model IEnumerable<ABook>
+@{ 
+    ViewData["Title"] = "Book List";
+}
+<h1>Book List</h1>
+<table class="table-striped table-responsive" width="75%">
+    <tr>
+        <th>Title</th>
+        <th>Book Code</th>
+        <th>Type</th>
+        <th>Paperback</th>
+        <th>Publisher</th>
+    </tr>
+
+    @foreach(var b in Model)
+    {
+        <tr>
+            <th>@b.Title</th>
+            <td>@b.BookCode</td>
+            <td>@b.Type</td>
+            <td>@b.Paperback</td>
+            <td>@b.PublisherCode</td>
+            <td>
+                <a asp-action="Update" asp-route-id="@b.BookCode">Edit</a>
+            </td>
+        </tr>
+
+    }
+</table>

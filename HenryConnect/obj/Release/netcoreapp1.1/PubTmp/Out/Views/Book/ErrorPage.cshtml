@@ -1,0 +1,7 @@
+﻿@model HenryConnect.Models.ABook
+@{
+    ViewData["Title"] = "Bad Primary Key";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>The key @Model.BookCode you chose is already taken</h1>
+<button onclick="window.history.back()">Go back</button>

@@ -1,0 +1,9 @@
+C:\Users\lee_c\OneDrive\MVC\HenryConnect\HenryConnect\bin\Release\netcoreapp1.1\HenryConnect.deps.json
+C:\Users\lee_c\OneDrive\MVC\HenryConnect\HenryConnect\bin\Release\netcoreapp1.1\HenryConnect.runtimeconfig.json
+C:\Users\lee_c\OneDrive\MVC\HenryConnect\HenryConnect\bin\Release\netcoreapp1.1\HenryConnect.runtimeconfig.dev.json
+C:\Users\lee_c\OneDrive\MVC\HenryConnect\HenryConnect\bin\Release\netcoreapp1.1\HenryConnect.dll
+C:\Users\lee_c\OneDrive\MVC\HenryConnect\HenryConnect\bin\Release\netcoreapp1.1\HenryConnect.pdb
+C:\Users\lee_c\OneDrive\MVC\HenryConnect\HenryConnect\obj\Release\netcoreapp1.1\HenryConnect.csprojResolveAssemblyReference.cache
+C:\Users\lee_c\OneDrive\MVC\HenryConnect\HenryConnect\obj\Release\netcoreapp1.1\HenryConnect.AssemblyInfo.cs
+C:\Users\lee_c\OneDrive\MVC\HenryConnect\HenryConnect\obj\Release\netcoreapp1.1\HenryConnect.dll
+C:\Users\lee_c\OneDrive\MVC\HenryConnect\HenryConnect\obj\Release\netcoreapp1.1\HenryConnect.pdb
